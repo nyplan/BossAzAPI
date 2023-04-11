@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3D9QnBb5c92W8zJWUbkYCuzAAwIQKtnhG5LCkSxLsrI=",
+  "Source": "BossAzAPI",
+  "BasePath": "_content/BossAzAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
